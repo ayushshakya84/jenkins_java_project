@@ -21,7 +21,7 @@ spec:
     spec:
       containers:
         - name: my-app-container
-          image: ayush8410/javaweb:${env.BUILD_TAG}
+          image: ayush8410/javaweb:${BUILD_TAG}
           ports:
             - containerPort: 8080
 
