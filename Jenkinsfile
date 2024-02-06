@@ -85,7 +85,7 @@ pipeline {
         
          
          
-        stage('approved') {
+        stage('approval') {
             steps {
                 
             
