@@ -49,7 +49,7 @@
 
 	<hr>
 	<footer>
-		<p>&copy; LW 2022</p>
+		<p>&copy; Ayush 2024</p>
 	</footer>
 </div>
 
