@@ -98,18 +98,18 @@
 
 	</dependencies>
 	
-	<!-- <distributionManagement>
+	   <distributionManagement>
 	    <repository>
 	      <id>nexus</id>
-	      <name>Mithun Technologies Releases Nexus Repository</name>
-	      <url>http://13.235.8.113:8081/repository/flipkart-release/</url>
+	      <name>Ayush Nexus Repository</name>
+	      <url>http://192.168.56.102:8081/repository/maven-releases/</url>
 	    </repository>
 	    <snapshotRepository>
 	      <id>nexus</id>
-	      <name>Mithun Technologies Snapshot Nexus Repository </name>
-	      <url>http://13.235.8.113:8081/repository/flipkart-snapshot/</url>
+	      <name> Ayush sn Nexus Repository </name>
+	      <url>http://192.168.56.102:8081/repository/maven-snapshots/</url>
 	    </snapshotRepository>
-	</distributionManagement> -->
+	</distributionManagement>
 	
 	<build>
 		<plugins>
