@@ -128,9 +128,6 @@ The Docker images are pushed to: `docker.io/ayush8410/javaweb`
 - Exposes the application using a `NodePort`
 - Routes traffic to the running containers
 
-## Contributors
-
-- **Ayush Shakya**
-
-##
+## Contributing
+If you’d like to contribute, please fork the repository and submit a pull request.
 
